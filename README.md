@@ -1,2 +1,2 @@
 # LearnCSharpCode
-Programas de C# para aprender el lenguaje.
+Programas de C# para aprendizaje.
